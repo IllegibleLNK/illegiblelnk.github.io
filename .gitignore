@@ -9,4 +9,4 @@ _site
 Gemfile.lock
 vendor
 github2024.pub
-
+*.code-workspace
